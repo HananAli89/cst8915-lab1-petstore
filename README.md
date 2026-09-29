@@ -39,15 +39,15 @@ The Store Front connects to both backend services. It sends a `GET` request to t
 
 **Store Front running on the Azure VM**
 
-![Store Front](screenshots/store-front.png)
+![Store Front](Screenshots/store-front.png)
 
 **Order placed successfully**
 
-![Order Confirmation](screenshots/order-confirmation.png)
+![Order Confirmation](Screenshots/order-confirmation.png)
 
 **RabbitMQ dashboard showing the queued orders**
 
-![RabbitMQ Dashboard](screenshots/rabbitmq-dashboard.png)
+![RabbitMQ Dashboard](Screenshots/rabbitmq-dashboard.png)
 
 ---
 
