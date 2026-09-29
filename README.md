@@ -35,6 +35,22 @@ The Store Front connects to both backend services. It sends a `GET` request to t
 
 ---
 
+## Screenshots
+
+**Store Front running on the Azure VM**
+
+![Store Front](screenshots/store-front.png)
+
+**Order placed successfully**
+
+![Order Confirmation](screenshots/order-confirmation.png)
+
+**RabbitMQ dashboard showing the queued orders**
+
+![RabbitMQ Dashboard](screenshots/rabbitmq-dashboard.png)
+
+---
+
 ## Challenges and Learnings
 
 - **VM size and region:** Standard B2s wasn't available on my Azure for Students subscription, so the VM was created as Standard_B2als_v2 in Sweden Central. It has the same 2 vCPUs and 4 GB RAM, so the lab worked the same.
